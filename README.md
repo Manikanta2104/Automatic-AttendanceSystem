@@ -1,5 +1,4 @@
-# REAL-TIME FACE RECOGNITION AUTOMATIC STUDENTS 
-ATTENDANCE MANAGEMENT
+# REAL-TIME FACE RECOGNITION AUTOMATIC STUDENTS ATTENDANCE MANAGEMENT
 
 There is no need, in the age of rapidly developing modern technologies, for an important educational event like attendance to be handled in a staid old-fashioned manner.
 The class teachers and all of the pupils will benefit greatly from the time and effort that the attendance monitoring system will save. The face recognition algorithm
